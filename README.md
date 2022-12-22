@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# PERN Stack TODO list app
+> PERN Stack TODO application for practice.
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,24 +17,22 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Postgres DB
+- ExpressJS Server API (Server Folder)
+- React Front-End (Client Folder)
+- Node
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- PERN Stack
+- Server run with "nodemon start"
+- Client run with "npm start"
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Its all great
 
 
 ## Screenshots
@@ -47,6 +45,8 @@ What are the project requirements/dependencies? Where are they listed? A require
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
+- Install necessary node modules
+
 
 ## Usage
 How does one go about using it?
@@ -56,7 +56,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
@@ -73,13 +73,12 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Developed this application following the tutorial by "The Stoic Programmers" on YouTube.
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=5vF0FGfa0RQ&t=3143s).
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Readm template created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 <!-- Optional -->
