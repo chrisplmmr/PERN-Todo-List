@@ -36,7 +36,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Screenshot](./img/todo_app.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -72,13 +72,12 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - Developed this application following the tutorial by "The Stoic Programmers" on YouTube.
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=5vF0FGfa0RQ&t=3143s).
 
 
 ## Contact
-Readm template created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Readme template created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 <!-- Optional -->
