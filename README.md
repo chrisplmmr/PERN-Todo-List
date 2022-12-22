@@ -1,5 +1,6 @@
 # PERN Stack TODO list app
 > PERN Stack TODO application for practice.
+> Simple CRUD application.
 
 
 ## Table of Contents
