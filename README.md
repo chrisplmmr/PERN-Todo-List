@@ -6,6 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [UML Design](#uml-design)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -35,9 +36,12 @@ List the ready features here:
 - Its all great
 
 
+## UML Design
+![Screenshot](./img/pern-todo-app-uml.png)
+
+
 ## Screenshots
 ![Screenshot](./img/todo_app.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
